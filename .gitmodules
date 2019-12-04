@@ -1,0 +1,3 @@
+[submodule "webpub-manifest"]
+	path = webpub-manifest
+	url = https://github.com/jccr/webpub-manifest.git
